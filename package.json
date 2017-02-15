@@ -1,0 +1,17 @@
+{
+  "name": "mytasklist",
+  "version": "1.0.0",
+  "description": "A MongoDB, Express, Angular 2, & NodeJS (MEAN) app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongojs": "^2.4.0"
+  }
+}
