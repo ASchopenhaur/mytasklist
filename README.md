@@ -31,6 +31,6 @@ following along with the youtube tutorial if you follow these steps:
       compile the typescript (ts) files into javascript.  Running this command will also keep watch for any changes to
       your 'ts' files and recompiles them as soon as you save any changes.  NOTE: this command is not running a 'server,'
       it is merely running a typescript compiler.  Do not run the server from within this directory.
-  7.  Go back to your root directory and make sure the express server that you have been previously running is shut down.
-      Run 'node server' or 'nodemon' from within this directory to start your application.  Open your browser and navigate
-      to 'localhost:3000'  You should see "Hello Angular"
+7.  Open up another terminal window.  Go back to your root directory and make sure the express server that you have been 
+    previously running is shut down.  Run 'node server' or 'nodemon' from within this directory to start your application.  
+    Open your browser and navigate to 'localhost:3000'  You should see "Hello Angular"see "Hello Angular"
